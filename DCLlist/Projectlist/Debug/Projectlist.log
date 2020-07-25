@@ -1,0 +1,11 @@
+﻿生成启动时间为 2020/7/13 23:43:02。
+     1>项目“C:\Users\孙小明\Desktop\新建文件夹\C语言程序\Projectlist\Projectlist\Projectlist.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project1list.vcxproj, Projectlist.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Link:
+         D:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\孙小明\Desktop\新建文件夹\C语言程序\Projectlist\Debug\DClist.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\孙小明\Desktop\新建文件夹\C语言程序\Projectlist\Debug\DClist.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\孙小明\Desktop\新建文件夹\C语言程序\Projectlist\Debug\DClist.lib" /MACHINE:X86 Debug\testmain.obj
+         Projectlist.vcxproj -> C:\Users\孙小明\Desktop\新建文件夹\C语言程序\Projectlist\Debug\DClist.exe
+     1>已完成生成项目“C:\Users\孙小明\Desktop\新建文件夹\C语言程序\Projectlist\Projectlist\Projectlist.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.27
