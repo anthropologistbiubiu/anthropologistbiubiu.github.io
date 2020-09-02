@@ -1,0 +1,20 @@
+﻿生成启动时间为 2020/8/23 15:54:00。
+     1>项目“C:\Users\孙小明\Desktop\Tree\Tree\Tree.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt testmain.c
+         testmain.c
+     1>c:\users\孙小明\desktop\tree\tree\tree.h(562): warning C4013: “strlen”未定义；假设外部返回 int
+     1>c:\users\孙小明\desktop\tree\tree\testmain.c(40): warning C4013: “system”未定义；假设外部返回 int
+     1>c:\users\孙小明\desktop\tree\tree\tree.h(86): warning C4715: “LinkQueueFront”: 不是所有的控件路径都返回值
+     1>c:\users\孙小明\desktop\tree\tree\tree.h(122): warning C4716: “LinkStackPop”: 必须返回一个值
+     1>c:\users\孙小明\desktop\tree\tree\tree.h(132): warning C4715: “LinkStackTop”: 不是所有的控件路径都返回值
+     1>c:\users\孙小明\desktop\tree\tree\tree.h(409): warning C4716: “BinTreeCount”: 必须返回一个值
+     1>c:\users\孙小明\desktop\tree\tree\tree.h(420): warning C4716: “BinTreeHeight”: 必须返回一个值
+       Link:
+         D:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\孙小明\Desktop\Tree\Debug\Tree.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\孙小明\Desktop\Tree\Debug\Tree.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\孙小明\Desktop\Tree\Debug\Tree.lib" /MACHINE:X86 Debug\testmain.obj
+         Tree.vcxproj -> C:\Users\孙小明\Desktop\Tree\Debug\Tree.exe
+     1>已完成生成项目“C:\Users\孙小明\Desktop\Tree\Tree\Tree.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.79
