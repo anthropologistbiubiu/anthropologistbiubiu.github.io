@@ -1,0 +1,27 @@
+﻿生成启动时间为 2020/10/1 23:30:41。
+     1>项目“D:\C语言代码\Tree_Practice\Tree_Practice\Tree_Practice.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt Tree_Practice.c
+         Tree_Practice.c
+     1>d:\c语言代码\tree_practice\tree_practice\tree_practice.c(82): warning C4098: “postorder”:“void”函数返回值
+     1>d:\c语言代码\tree_practice\tree_practice\tree_practice.c(95): warning C4101: “top”: 未引用的局部变量
+     1>d:\c语言代码\tree_practice\tree_practice\tree_practice.c(94): warning C4101: “pre”: 未引用的局部变量
+     1>d:\c语言代码\tree_practice\tree_practice\tree_practice.c(123): warning C4047: “函数”:“BinTreeNode **”与“BinTreeNode *”的间接级别不同
+     1>d:\c语言代码\tree_practice\tree_practice\tree_practice.c(123): warning C4024: “LinkStackTop”: 形参和实参 2 的类型不同
+     1>d:\c语言代码\tree_practice\tree_practice\tree_practice.c(133): warning C4020: “LinkStackPop”: 实参太多
+     1>d:\c语言代码\tree_practice\tree_practice\tree_practice.c(134): warning C4047: “函数”:“BinTreeNode *”与“char”的间接级别不同
+     1>d:\c语言代码\tree_practice\tree_practice\tree_practice.c(134): warning C4024: “visit”: 形参和实参 1 的类型不同
+     1>d:\c语言代码\tree_practice\tree_practice\tree_practice.c(144): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2013\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>d:\c语言代码\tree_practice\tree_practice\tree_practice.c(340): warning C4020: “LinkQueueDeque”: 实参太多
+     1>d:\c语言代码\tree_practice\tree_practice\tree_practice.c(59): warning C4716: “LinkStackPop”: 必须返回一个值
+     1>d:\c语言代码\tree_practice\tree_practice\tree_practice.c(64): warning C4716: “LinkStackTop”: 必须返回一个值
+     1>d:\c语言代码\tree_practice\tree_practice\tree_practice.c(217): warning C4715: “LinkQueueFront”: 不是所有的控件路径都返回值
+       Link:
+         D:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\C语言代码\Tree_Practice\Debug\Tree_Practice.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\C语言代码\Tree_Practice\Debug\Tree_Practice.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\C语言代码\Tree_Practice\Debug\Tree_Practice.lib" /MACHINE:X86 Debug\Tree_Practice.obj
+         Tree_Practice.vcxproj -> D:\C语言代码\Tree_Practice\Debug\Tree_Practice.exe
+     1>已完成生成项目“D:\C语言代码\Tree_Practice\Tree_Practice\Tree_Practice.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.93
