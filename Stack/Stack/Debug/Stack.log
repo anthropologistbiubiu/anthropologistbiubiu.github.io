@@ -1,0 +1,16 @@
+﻿生成启动时间为 2020/8/14 14:44:20。
+     1>项目“D:\C语言代码\Stack\Stack\Stack.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt testmain.c
+         testmain.c
+     1>d:\c语言代码\stack\stack\testmain.c(122): warning C4033: “TopElem”必须返回值
+     1>d:\c语言代码\stack\stack\testmain.c(157): warning C4101: “item”: 未引用的局部变量
+     1>d:\c语言代码\stack\stack\testmain.c(128): warning C4715: “TopElem”: 不是所有的控件路径都返回值
+       Link:
+         D:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\C语言代码\Stack\Debug\Stack.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\C语言代码\Stack\Debug\Stack.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\C语言代码\Stack\Debug\Stack.lib" /MACHINE:X86 Debug\testmain.obj
+     1>LINK : fatal error LNK1561: 必须定义入口点
+     1>已完成生成项目“D:\C语言代码\Stack\Stack\Stack.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.70
