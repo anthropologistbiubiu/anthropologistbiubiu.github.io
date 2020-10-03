@@ -1,0 +1,19 @@
+﻿生成启动时间为 2020/8/14 22:31:25。
+     1>项目“D:\C语言代码\Queue\Queue\Queue.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt MyTestMain.c
+         MyTestMain.c
+     1>d:\c语言代码\queue\queue\mytestmain.c(114): warning C4033: “_SeqQueuePop_Top”必须返回值
+     1>d:\c语言代码\queue\queue\mytestmain.c(174): warning C4033: “SeqStackPop_Top”必须返回值
+     1>d:\c语言代码\queue\queue\mytestmain.c(121): warning C4715: “_SeqQueuePop_Top”: 不是所有的控件路径都返回值
+     1>d:\c语言代码\queue\queue\mytestmain.c(180): warning C4715: “SeqStackPop_Top”: 不是所有的控件路径都返回值
+     1>d:\c语言代码\queue\queue\mytestmain.c(326): warning C4715: “function”: 不是所有的控件路径都返回值
+       Link:
+         D:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\C语言代码\Queue\Debug\Queue.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\C语言代码\Queue\Debug\Queue.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\C语言代码\Queue\Debug\Queue.lib" /MACHINE:X86 Debug\MyTestMain.obj
+         Debug\testmain.obj
+         Queue.vcxproj -> D:\C语言代码\Queue\Debug\Queue.exe
+     1>已完成生成项目“D:\C语言代码\Queue\Queue\Queue.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.41
